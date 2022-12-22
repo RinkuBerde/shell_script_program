@@ -1,3 +1,4 @@
+Read a Number and Display the week day (Sunday, Monday,...)
 echo "Enter a number:"
 read week 
 case "$week" in
